@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*; // this is not necessary
 abstract class abs
 {
 	abstract void method();	
